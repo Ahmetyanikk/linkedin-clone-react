@@ -10,7 +10,7 @@
     margin-bottom: 20px;
     padding: 10px;
 }
-.feeed__input{
+.feed__input{
     border: 1px solid lightgray;
     border-radius: 30px;
     display: flex;
@@ -19,18 +19,18 @@
     padding-left: 15px;
 
 }
-.feeed__input > form{
+.feed__input > form{
     display: flex;
     width: 100%;
 }
-.feeed__input > form >input{
+.feed__input > form >input{
     border:none;
     flex:1;
     margin-left: 10px;
     outline-width: 0;
     font-weight: 600;
 }
-.feeed__input > form >button{
+.feed__input > form >button{
    display: none;
 }
 .feed__inputOptions{
